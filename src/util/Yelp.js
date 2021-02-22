@@ -1,5 +1,4 @@
-const apiKey = 'gjxgiwo_ppSG7n-G8SSzvpEOhUPu2s83OnloKBm5prBOjvOcM9WUG1ApzhiGKoK3W85pgF6bZVf0S_kZ2VmO_-bxg-DtGlzr1Pp21cCRRK7KTTtFOe0IV-KbBWoxYHYx';
-
+const apiKey = '';//You need your own API key :)
 
 
 
